@@ -1,0 +1,36 @@
+{
+  "doc": {
+    "container": {
+      "fill": {
+        "value": "{palette.white.1000}",
+        "type": "color"
+      },
+      "item": {
+        "value": "{palette.grey.800}",
+        "type": "color"
+      },
+      "header": {
+        "value": "{palette.grey.50}",
+        "type": "color"
+      }
+    },
+    "cover": {
+      "fill": {
+        "value": "{palette.blue.50}",
+        "type": "color"
+      },
+      "item": {
+        "value": "{palette.grey.800}",
+        "type": "color"
+      },
+      "link": {
+        "value": "{palette.blue.600}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{palette.blue.400}",
+        "type": "color"
+      }
+    }
+  }
+}
